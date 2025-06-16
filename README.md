@@ -1,4 +1,4 @@
-#e80d9bbea7362141a479940dabb751c1f244e4b6 `actions/attest-build-provenance`
+https://click.mailer.paysafecard.com/?qs=ea5de724f0dce4dab1d8c805e6de531b26bd1d0819fd84ec9cd953969ba844d04f7f1c0d69ab591b7924d1704ee353b4b7fb833612479228b5cae90d39a43244#e80d9bbea7362141a479940dabb751c1f244e4b6 `actions/attest-build-provenance`
 
 [![Public-Good Sigstore Prober](https://github.com/actions/attest-build-provenance/actions/workflows/prober-public-good.yml/badge.svg)](https://github.com/actions/attest-build-provenance/actions/workflows/prober-public-good.yml)
 [![GitHub Sigstore Prober](https://github.com/actions/attest-build-provenance/actions/workflows/prober-github.yml/badge.svg)](https://github.com/actions/attest-build-provenance/actions/workflows/prober-github.yml)
